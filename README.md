@@ -6,6 +6,7 @@ A command-line implementation of the board game Othello
 Requirements
 ------------
 *g++
+
 *make
 
 How to Run
